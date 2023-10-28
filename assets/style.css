@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: #f3f3f3;
+}
+#game {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    margin: 100px auto;
+    width: 300px;
+}
+button {
+    background-color: #3498db;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 5px;
+    padding: 10px 20px;
+}
+#result {
+    font-size: 20px;
+    margin-top: 10px;
+}
+h1 {
+    font-size: 25px;
+}
